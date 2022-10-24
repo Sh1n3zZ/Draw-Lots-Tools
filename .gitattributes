@@ -1,5 +1,5 @@
 *.e linguist-language=C
-*.ec linguist-language=C
+*.ec linguist-language=C#
 *.bak linguist-language=C
 *.ico linguist-language=HTML
 *.png linguist-language=HTML
