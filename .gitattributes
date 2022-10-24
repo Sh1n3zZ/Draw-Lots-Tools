@@ -1,5 +1,5 @@
-*.e linguist-language=易语言
-*.ec linguist-language=易语言
-*.bak linguist-language=易语言
+*.e linguist-language=C
+*.ec linguist-language=C
+*.bak linguist-language=C
 *.ico linguist-language=HTML
 *.png linguist-language=HTML
