@@ -1,6 +1,8 @@
 # Draw-Lots-Tools
 
-<a target="_blank" href="https://github.com/Sh1n3zZ/Draw-Lots-Tools"><img src="https://img.shields.io/github/stars/Sh1n3zZ/Draw-Lots-Tools" /></a> <a target="_blank" href="https://github.com/Sh1n3zZ/Draw-Lots-Tools"><img src="https://img.shields.io/github/last-commit/Sh1n3zZ/Draw-Lots-Tools" /></a>
+<a target="_blank" href="https://github.com/Sh1n3zZ/Draw-Lots-Tools"><img src="https://img.shields.io/github/stars/Sh1n3zZ/Draw-Lots-Tools" /></a> 
+<a target="_blank" href="https://github.com/Sh1n3zZ/Draw-Lots-Tools"><img src="https://img.shields.io/github/last-commit/Sh1n3zZ/Draw-Lots-Tools" /></a>
+<a target="_blank" href="https://github.com/Sh1n3zZ/Draw-Lots-Tools"><img src="https://img.shields.io/github/v/release/Sh1n3zZ/Draw-Lots-Tools" />
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Sh1n3zZ?label=GitHub%20Sponsors)](https://github.com/sponsors/Sh1n3zZ)
 
 <div align="center" width="100%">
