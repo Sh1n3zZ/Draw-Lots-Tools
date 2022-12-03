@@ -48,6 +48,5 @@ Better UI & Less BUG.
 ---I am a line---
 
 That's all tkx for read~!
-Have a good day!text
-
+Have a good day!
 If you love this project, please consider giving me a ⭐.
