@@ -49,5 +49,5 @@ Better UI & Less BUG.
 
 That's all tkx for read~!
 Have a good day!
-Best wishes.
+
 If you love this project, please consider giving me a ⭐.
